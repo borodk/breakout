@@ -1,4 +1,4 @@
-// based on "Make a Breakout clone with HTML5's <canvas> element" http://billmill.org/static/canvastutorial/
+// based on "Make a Breakout clone with HTML5's <canvas> element" @ http://billmill.org/static/canvastutorial/
 
 $(document).ready(function() {
 	$('#start').click(function() {
